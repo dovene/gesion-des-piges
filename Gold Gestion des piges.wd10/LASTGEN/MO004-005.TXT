@@ -1,0 +1,9 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Tranche		TAR	76	nouvelle taille enregistrement : 76
+Tranche	IDSupport	RUB+		IDSupport est une nouvelle clé
+Tranche	prixdiffusion	RUB+		prixdiffusion est une nouvelle rubrique
+Tranche		FIC-	Support_Tranche	Fichier supprimé Support_Tranche
+Support		NWL	Support (IDSupport) et Tranche (IDSupport)	Nouvelle liaison entre les fichiers Support (IDSupport) et Tranche (IDSupport)
+Tranche		DEL	Tranche (IDTranche) et Support_Tranche (IDTranche)	Liaison supprimée entre les fichiers Tranche (IDTranche) et Support_Tranche (IDTranche)
+Support		DEL	Support (IDSupport) et Support_Tranche (IDSupport)	Liaison supprimée entre les fichiers Support (IDSupport) et Support_Tranche (IDSupport)
+Tranche	prixdiffusion	RRN		

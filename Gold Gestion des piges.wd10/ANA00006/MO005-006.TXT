@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Spot		TAR	474	nouvelle taille enregistrement : 474
+Spot	descspot	TAI+	150	la rubrique descspot a comme nouvelle taille 301 au lieu de 151
+Spot	descspot	RRN		

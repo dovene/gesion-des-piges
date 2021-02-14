@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Support_Tranche		TAR	29	nouvelle taille enregistrement : 29
+Support_Tranche	prixdiffusion	CNW	Entier sur 8 octets$Chaîne	la rubrique prixdiffusion a pour nouveau type Entier sur 8 octets
+Support_Tranche	prixdiffusion	RRN		

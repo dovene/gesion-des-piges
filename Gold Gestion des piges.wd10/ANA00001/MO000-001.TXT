@@ -1,0 +1,9 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Spot		NFI		nouveau fichier
+Tranche		NFI		nouveau fichier
+Support		NFI		nouveau fichier
+Marque		NFI		nouveau fichier
+Marque		FRN		
+Support		FRN		
+Tranche		FRN		
+Spot		FRN		

@@ -1,0 +1,12 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Diffusion		NFI		nouveau fichier
+Support_Tranche		NFI		nouveau fichier
+Spot		TAR	324	nouvelle taille enregistrement : 324
+Spot	IDMarque	RUB+		IDMarque est une nouvelle clé
+Support		NWL	Support (IDSupport) et Diffusion (IDSupport)	Nouvelle liaison entre les fichiers Support (IDSupport) et Diffusion (IDSupport)
+Tranche		NWL	Tranche (IDTranche) et Diffusion (IDTranche)	Nouvelle liaison entre les fichiers Tranche (IDTranche) et Diffusion (IDTranche)
+Marque		NWL	Marque (IDMarque) et Spot (IDMarque)	Nouvelle liaison entre les fichiers Marque (IDMarque) et Spot (IDMarque)
+Spot		NWL	Spot (IDSpot) et Diffusion (IDSpot)	Nouvelle liaison entre les fichiers Spot (IDSpot) et Diffusion (IDSpot)
+Tranche		NWL	Tranche (IDTranche) et Support_Tranche (IDTranche)	Nouvelle liaison entre les fichiers Tranche (IDTranche) et Support_Tranche (IDTranche)
+Support		NWL	Support (IDSupport) et Support_Tranche (IDSupport)	Nouvelle liaison entre les fichiers Support (IDSupport) et Support_Tranche (IDSupport)
+Diffusion		FRN		

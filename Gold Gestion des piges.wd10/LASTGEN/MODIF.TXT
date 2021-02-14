@@ -1,0 +1,6 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+SecteurActivite		NFI		nouveau fichier
+Marque		TAR	68	nouvelle taille enregistrement : 68
+Marque	IDSecteurActivite	RUB+		IDSecteurActivite est une nouvelle clé
+SecteurActivite		NWL	SecteurActivite (IDSecteurActivite) et Marque (IDSecteurActivite)	Nouvelle liaison entre les fichiers SecteurActivite (IDSecteurActivite) et Marque (IDSecteurActivite)
+SecteurActivite		FRN		

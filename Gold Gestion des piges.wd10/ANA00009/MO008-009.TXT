@@ -1,0 +1,6 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Structures		NFI		nouveau fichier
+Spot		TAR	877	nouvelle taille enregistrement : 877
+Spot	ficmedia	RUB+		ficmedia est une nouvelle rubrique
+Spot	ficsupport	RUB+		ficsupport est une nouvelle rubrique
+Structures		FRN		

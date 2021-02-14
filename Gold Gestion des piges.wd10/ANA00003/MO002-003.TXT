@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Spot	libspot	CLEN*		la rubrique libspot est maintenant une clé
+Tranche	libtranche	CLEN*		la rubrique libtranche est maintenant une clé
+Support	libsupport	CLEN*		la rubrique libsupport est maintenant une clé
+Marque	libmarque	CLEN*		la rubrique libmarque est maintenant une clé

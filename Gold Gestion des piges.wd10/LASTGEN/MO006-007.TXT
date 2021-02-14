@@ -1,0 +1,6 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Tabcalcul		NFI		nouveau fichier
+Tabcalcul		FRN		
+Spot	descspot	RRM		
+Tabcalcul	descspot	RRN		
+Tabcalcul	prixdiffusion	RRN		
